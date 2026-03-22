@@ -1,0 +1,10 @@
+# Python Dependencies
+
+## Flask
+flask==2.0.1
+
+## SQLAlchemy
+sqlalchemy==1.4.25
+
+## Flask-Migrate
+flask-migrate==3.1.0
